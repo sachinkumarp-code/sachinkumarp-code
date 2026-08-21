@@ -3,8 +3,7 @@
 **M.Tech, Structural & Computational Biology — IIT Roorkee**  
 ex-Project Associate, IISc Bangalore
 
-I build deep learning systems and AI agents for medical imaging and clinical data —  
-pipelines that work on real clinical problems, not just benchmark datasets.
+I build deep learning systems and AI agents for medical imaging and clinical data pipelines that work on real clinical problems, not just benchmark datasets.
 
 ---
 
